@@ -1,7 +1,8 @@
-module com.client {
+module com.client.repository_client {
     requires javafx.controls;
     requires javafx.fxml;
-
-    opens com.client to javafx.fxml;
-    exports com.client;
+            
+                            
+    opens com.client.repository_client to javafx.fxml;
+    exports com.client.repository_client;
 }
