@@ -1,4 +1,4 @@
-repository_server/target/
+../repository_server/target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
