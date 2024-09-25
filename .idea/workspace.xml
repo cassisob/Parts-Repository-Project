@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23277a6a-5497-4c9e-bf0c-ac52577a28cd" name="Changes" comment="Main changes">
+      <change afterPath="$PROJECT_DIR$/repository_server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository_server/src/main/java/client/PartRepositoryClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository_server/src/main/java/server/Part.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository_server/src/main/java/server/PartImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository_server/src/main/java/server/PartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository_server/src/main/java/server/PartRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository_server/src/main/java/server/PartRepositoryServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository_server/src/main/java/server/SubPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Parts Repository Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/src/main/java/com/client/repository_client/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/src/main/java/com/client/repository_client/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository_client/src/main/resources/com/client/repository_client/hello-view.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2lzyqxKkYxqm6kSA79AjvVuJL6P" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "22",
+    "last_opened_file_path": "C:/Users/cassi/OneDrive/Área de Trabalho/Pessoal/Carreira/Graduação - ADS IFRS/Sistemas Distribuidos/Java RMI/Parts Repository Project/repository_server",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.23187184",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cassi\OneDrive\Área de Trabalho\Pessoal\Carreira\Graduação - ADS IFRS\Sistemas Distribuidos\Java RMI\Parts Repository Project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PartRepositoryClient">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.Main" />
+      <module name="repository_server" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/repository_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartRepositoryClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.PartRepositoryClient" />
+      <module name="repository_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PartRepositoryServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.PartRepositoryServer" />
+      <module name="repository_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PartRepositoryClient" />
+        <item itemvalue="Application.PartRepositoryServer" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23277a6a-5497-4c9e-bf0c-ac52577a28cd" name="Changes" comment="" />
+      <created>1726197394050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726197394050</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Main changes">
+      <created>1726197850941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726197850941</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Main changes">
+      <created>1726198541102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726198541102</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Main changes">
+      <created>1726198551251</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726198551251</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main changes" />
+  </component>
+</project>
