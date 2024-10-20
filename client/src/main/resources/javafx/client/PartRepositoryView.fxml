@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="javafx.client.PartRepositoryController"
+      spacing="20" alignment="center" styleClass="main-container">
+
+    <Label text="Part Repository" styleClass="title-label"/>
+
+    <VBox alignment="center" spacing="10" styleClass="card" prefWidth="500" prefHeight="300" minWidth="500" minHeight="300">
+        <Label text="Parts List" styleClass="subtitle-label"/>
+        <ListView fx:id="partListView" prefHeight="200" prefWidth="400" styleClass="part-list"/>
+    </VBox>
+
+    <VBox alignment="center" spacing="10" styleClass="card">
+        <Label text="Selected Part Details" styleClass="subtitle-label"/>
+        <TextArea fx:id="partDetails" prefWidth="400" prefHeight="120" wrapText="true" editable="false" styleClass="part-details"/>
+    </VBox>
+
+    <HBox spacing="15" alignment="center">
+        <Button text="Show Part Details" onAction="#onShowPartDetails" styleClass="primary-button"/>
+        <Button text="Add New Part" onAction="#onAddNewPart" styleClass="success-button"/>
+        <Button text="Add Subpart" onAction="#onAddSubPart" styleClass="warning-button"/>
+    </HBox>
+
+</VBox>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="javafx.client.AddSubPartController" spacing="10" alignment="center" prefHeight="250" prefWidth="300" styleClass="card">
+
+    <Label text="Add Subpart" styleClass="title-label"/>
+
+    <TextField fx:id="partCodeField" promptText="Subpart Code" styleClass="input-field"/>
+    <TextField fx:id="quantityField" promptText="Quantity" styleClass="input-field"/>
+
+    <HBox spacing="10" alignment="center">
+        <Button text="Add" onAction="#onAddSubPart" styleClass="action-button"/>
+        <Button text="Cancel" onAction="#onCancel" styleClass="cancel-button"/>
+    </HBox>
+</VBox>
