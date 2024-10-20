@@ -1,31 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c60c8c9-7704-4be5-a50e-c81135bd5786" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_client/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_client/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_client/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_client/src/main/java/client/repository_client/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_client/src/main/java/client/repository_client/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_client/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_client/src/main/resources/client/repository_client/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/src/main/java/client/PartRepositoryClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/src/main/java/client/PartRepositoryClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/src/main/java/server/Part.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/src/main/java/server/Part.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/src/main/java/server/PartImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/src/main/java/server/PartImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/src/main/java/server/PartRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/src/main/java/server/PartRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/src/main/java/server/PartRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/src/main/java/server/PartRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/src/main/java/server/SubPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/src/main/java/server/SubPart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/target/classes/client/PartRepositoryClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/target/classes/client/PartRepositoryClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/target/classes/server/Part.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/target/classes/server/Part.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/target/classes/server/PartImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/target/classes/server/PartImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/target/classes/server/PartRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/target/classes/server/PartRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/target/classes/server/PartRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/target/classes/server/PartRepositoryImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository_server/target/classes/server/SubPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository_server/target/classes/server/SubPart.class" afterDir="false" />
+    <list default="true" id="7c60c8c9-7704-4be5-a50e-c81135bd5786" name="Changes" comment="Main Changes">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +24,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/barre/OneDrive/Área de Trabalho/Pessoal/Carreira/Graduação - ADS IFRS/Sistemas Distribuidos/Java RMI/Parts Repository Project/client"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/cassi/OneDrive/Área de Trabalho/Pessoal/Carreira/Graduação - ADS IFRS/Sistemas Distribuidos/Java RMI/Parts Repository Project"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cassi\OneDrive\Área de Trabalho\Pessoal\Carreira\Graduação - ADS IFRS\Sistemas Distribuidos\Java RMI\Parts Repository Project" />
+      <recent name="C:\Users\cassi\OneDrive\Área de Trabalho\Pessoal\Carreira\Graduação - ADS IFRS\Sistemas Distribuidos\Java RMI\Parts Repository Project\.idea" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,6 +43,27 @@
       <option name="presentableId" value="Default" />
       <updated>1729029982660</updated>
     </task>
+    <task id="LOCAL-00001" summary="Main Changes">
+      <option name="closed" value="true" />
+      <created>1729443196854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729443196854</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Main Changes">
+      <option name="closed" value="true" />
+      <created>1729443279399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729443279399</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main Changes" />
   </component>
 </project>
