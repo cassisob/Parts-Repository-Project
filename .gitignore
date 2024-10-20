@@ -13,3 +13,9 @@ repository_server/lib/
 
 build/
 dist/
+
+# Ignorar configuração do Maven, exceto o wrapper
+.mvn/*
+!.mvn/wrapper/
+
+out/
